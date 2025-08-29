@@ -13,6 +13,8 @@ Projektet är byggt för att köras automatiskt (t.ex. via schemaläggning) och 
 ETL_cars/
 ├── etl_cars.py
 ├── db_cars.py
+├── analys.ipynb
+├── export_fact_cars.csv
 ├── requirements.txt
 ├── README.md
 ├── tests/
