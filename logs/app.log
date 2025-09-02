@@ -1,0 +1,14 @@
+2025-08-29 11:22:55,039 INFO etl_cars - === CARS ETL START ===
+2025-08-29 11:22:55,039 INFO etl_cars - Excel: data\dataset_final.xlsx | DB: dataset_final.db | Logg: logs\app.log
+2025-08-29 11:22:55,039 INFO etl_cars - Extract: läser Excel data\dataset_final.xlsx (sheet=None)
+2025-08-29 11:22:55,464 INFO etl_cars - Transform: normaliserar kolumner och beräknar fält
+2025-08-29 11:22:55,467 INFO etl_cars - Load: upsert till SQLite dataset_final.db
+2025-08-29 11:22:55,502 INFO etl_cars - Load: 567 rader upsertade.
+2025-08-29 11:22:55,504 INFO etl_cars - === CARS ETL KLAR: 567 rader ===
+2025-09-02 13:59:10,996 INFO etl_cars - === CARS ETL START ===
+2025-09-02 13:59:10,996 INFO etl_cars - Excel: data\dataset_final.xlsx | DB: dataset_final.db | Logg: logs\app.log
+2025-09-02 13:59:10,996 INFO etl_cars - Extract: läser Excel data\dataset_final.xlsx (sheet=None)
+2025-09-02 13:59:12,199 INFO etl_cars - Transform: normaliserar kolumner och beräknar fält
+2025-09-02 13:59:12,230 INFO etl_cars - Load: upsert till SQLite dataset_final.db
+2025-09-02 13:59:12,284 INFO etl_cars - Load: 567 rader upsertade.
+2025-09-02 13:59:12,296 INFO etl_cars - === CARS ETL KLAR: 567 rader ===
